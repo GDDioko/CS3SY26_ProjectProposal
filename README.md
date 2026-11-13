@@ -27,10 +27,12 @@
 
 ### Goals:
 
+Make a teaching tool for counterintuitive statistic scenarios. The program will make objects of the scenarios, and calculate the classical probability of each.
+
 Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
 
-- Objective 1:
-- Objective 2:
+- Objective 1: Make a program to find the probabilities in unintuitive statistic problems
+- Objective 2: Make it able to find the probabilities of many different statistical scenarios by imputting data into the variables and calculate the probabilities.
 - Objective n:
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
